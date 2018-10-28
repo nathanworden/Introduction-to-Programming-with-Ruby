@@ -28,3 +28,9 @@ if 3 == 3 then puts "x is 3" end
 
 puts "x is 3" if x == 3
 
+# Ruby also has a reseved word, 'unless'. It acts as the 
+# opposite of 'if', so you can use it like this:
+
+puts "x is NOT 3" unless x == 3
+
+
