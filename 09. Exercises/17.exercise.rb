@@ -1,4 +1,4 @@
-# What will the following program output?
+# What will the following program output??
 
 hash1 = {shoes: "nike", "hat" => "adidas", :hoodie => true}
 hash2 = {"hat" => "adidas", :shoes => "nike", hoodie: true}
